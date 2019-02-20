@@ -1,0 +1,38 @@
+Justification de cambios hechos a taba.html
+
+### Cambio #1
+elimino <span> innecesario clase small dentro de los dos <li class="ui-state-default ui-state-active"> 
+
+### Cambio #2
+cambio <b> por <span> dentro de los dos <li class="ui-state-default ui-state-active"> ya que solo se requiere enfatizar el titulo 
+
+### Cambio #3
+elimino etiquetas </b> dentro de los dos <li class="ui-state-default ui-state-active"> 
+
+### Cambio #4
+cambio <a> por <button> dentro del div con id=“tab-1”
+
+### Cambio #5
+dentro de div class=“steps” en id=“tab-1” elimino los sean para meter su contenido y el texto suelto dentro de un <ol> 
+
+### Cambio #6
+elimino <div> vacío class=“icon vox-icon” para reemplazarlo por su respectiva etiqueta <img> 
+
+### Cambio #7
+en id=“tab-2” repito estructura de div class=“steps” en id=“tab-1” 
+
+### Cambio #8
+elimino etiqueta <b class="shipping-site-url"> dentro de un <p>
+
+### Cambio #9
+elimino etiqueta <b> dentro de <p class="rma-box-number">
+
+### Cambio #10
+elimino class class="rma-box-notice" y class="rma-box-number" dentro de <div class="rma-box”>
+
+### Cambio #11
+elimino etiqueta de cierre de div extra
+
+### Cambio #12
+agrego !doctype y header y body
+
